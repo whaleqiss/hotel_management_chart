@@ -1,0 +1,12 @@
+apiVersion: v1
+entries:
+  hotel-management:
+  - apiVersion: v2
+    created: "2024-06-16T02:32:12.284125+04:00"
+    description: A Helm chart for deploying the hotel-management application
+    digest: 0fc3b5ca43a65e820450e66f2c4dc296e6aed9ee441309ab98279c915e3a9f75
+    name: hotel-management
+    urls:
+    - https://github.com/whaleqiss/hotel_management_chart/hotel-management-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-06-16T02:32:12.282948+04:00"
