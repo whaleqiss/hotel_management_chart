@@ -1,0 +1,5 @@
+image:
+  repository: 548844171305.dkr.ecr.eu-central-1.amazonaws.com/kristina-ecr
+  tag: latest
+containerPort: 80
+
